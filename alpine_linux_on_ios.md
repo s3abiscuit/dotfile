@@ -12,8 +12,10 @@
 ## install apps
 
 `apk add ***`
+`apk search java`
 - git 
 - vim 
+- openjdk8
 
 ## config
 
