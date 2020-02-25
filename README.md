@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 config files
 
 - bashrc
